@@ -1,0 +1,28 @@
+{
+ "code": "M5201",
+ "connector": "RTO-144",
+ "type": "Machine CoNTROL Module",
+ "series": null,
+ "contacts": "37 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "D",
+   "signal": "OUTPUTS FOR THESE PORTS",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/COMPUTERS/M5201/MANUALS/1986 - M5201 - p8.jpg"
+ ]
+}
