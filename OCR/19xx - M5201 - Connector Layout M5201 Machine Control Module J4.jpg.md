@@ -18,6 +18,18 @@ Manual page with connector J4/J5 pinout for the M5201 machine control module.
 - **Size:** 270,866 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 0–293 mm across, 0–427 mm up
+- **Outlines:** line 227 rings, 3,236 straight (7,308 mm) / 564 curved (958 mm); text 342 rings, 2,611 straight (3,551 mm) / 684 curved (1,122 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 7.6 @ (153.0, 297.4), r 6.9 @ (153.3, 107.6), r 3.6 @ (153.0, 107.4), r 3.6 @ (152.8, 297.4)
+- **Closed boxes:** 31
+- **Dots (junctions):** 6
+- **Words (OCR):** 43 in 35 lines: WAAD-SECX SYSTEME LTC_ · CONNECTOR LAYOUT · M5201 MACHINE CONTROL · MODULE · NOTE: · LEGEND · CONNECTORS · NC:NOT CONNECTED · IC : INTERNALLY · CONNECTED · J4 · AND JS
+
+Every curve, box, word and wire group: [19xx - M5201 - Connector Layout M5201 Machine Control Module J4 (traced).json](../PINOUTS/19xx%20-%20M5201%20-%20Connector%20Layout%20M5201%20Machine%20Control%20Module%20J4%20%28traced%29.json) (the CAD file: `19xx - M5201 - Connector Layout M5201 Machine Control Module J4 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

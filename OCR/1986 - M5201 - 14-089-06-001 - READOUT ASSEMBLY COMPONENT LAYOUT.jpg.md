@@ -19,7 +19,7 @@ Wiki page: [M5201](../../../../PAGES/M5201.md)
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 2.0 @ (331.2, 178.8), r 1.6 @ (368.7, 17.6), r 1.6 @ (378.4, 17.5), r 1.6 @ (282.6, 180.0)
 - **Closed boxes:** 11
 
-Every curve, box, word and wire group: [1986 - M5201 - 14-089-06-001 - READOUT ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%2014-089-06-001%20-%20READOUT%20ASSEMBLY%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1986 - M5201 - 14-089-06-001 - READOUT ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M5201 - 14-089-06-001 - READOUT ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%2014-089-06-001%20-%20READOUT%20ASSEMBLY%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1986 - M5201 - 14-089-06-001 - READOUT ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

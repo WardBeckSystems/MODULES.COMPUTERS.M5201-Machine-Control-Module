@@ -20,7 +20,7 @@ Wiki page: [M5201](../../../../PAGES/M5201.md)
 - **Closed boxes:** 12
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT (traced).json](../MECHANICAL/1986%20-%20M5201%20-%205201-04-001%20-%20MACHINE%20CONTROL%20MODULE%20MODULE%20LAYOUT%20(traced).json) (the CAD file: `1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT (traced).json](../MECHANICAL/1986%20-%20M5201%20-%205201-04-001%20-%20MACHINE%20CONTROL%20MODULE%20MODULE%20LAYOUT%20%28traced%29.json) (the CAD file: `1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -18,6 +18,17 @@ Manual page with connector P8 pinout for the M5201 machine control module.
 - **Size:** 258,427 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 0–305 mm across, 0–427 mm up
+- **Outlines:** line 152 rings, 2,843 straight (6,346 mm) / 383 curved (720 mm); text 366 rings, 2,733 straight (3,591 mm) / 809 curved (1,347 mm)
+- **Circles and arcs:** 4 circles, 0 arcs; largest r 7.9 @ (154.1, 327.4), r 7.7 @ (156.2, 137.4), r 3.4 @ (156.5, 137.5), r 3.4 @ (154.3, 327.4)
+- **Closed boxes:** 27
+- **Words (OCR):** 63 in 54 lines: Systems LTD_ · WAAD-SECX · ,tt` - · CONNECTOR LAYOUT · M5201 MACHINE CONTROL MODULE · LEGEND : · "07 . · NC :NOT CONNECTED · IC : INTERNALLY CONNECTED · com · 20 · coM
+
+Every curve, box, word and wire group: [19xx - M5201 - Connector Layout M5201 Machine Control Module P8 (traced).json](../PINOUTS/19xx%20-%20M5201%20-%20Connector%20Layout%20M5201%20Machine%20Control%20Module%20P8%20%28traced%29.json) (the CAD file: `19xx - M5201 - Connector Layout M5201 Machine Control Module P8 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

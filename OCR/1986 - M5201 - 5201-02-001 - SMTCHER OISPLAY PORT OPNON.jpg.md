@@ -21,7 +21,7 @@ Wiki page: [M5201](../../../../PAGES/M5201.md)
 - **Closed boxes:** 13
 - **Wiring (first pass):** 41 connected wire groups from 598 runs
 
-Every curve, box, word and wire group: [1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON%20(traced).json) (the CAD file: `1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON%20%28traced%29.json) (the CAD file: `1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON (traced).dxf`).
 
 ## Full text
 

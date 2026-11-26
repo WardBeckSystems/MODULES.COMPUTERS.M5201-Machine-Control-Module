@@ -18,6 +18,18 @@ Manual page with connector J6/J7 pinout for the M5201 machine control module.
 - **Size:** 280,964 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 305 × 432 mm, 1240 × 1753 px traced (0.246 mm/px)
+- **Ink extent:** 0–306 mm across, 0–416 mm up
+- **Outlines:** line 207 rings, 3,610 straight (7,333 mm) / 569 curved (971 mm); text 355 rings, 2,575 straight (3,364 mm) / 779 curved (1,258 mm)
+- **Circles and arcs:** 3 circles, 0 arcs; largest r 3.6 @ (152.4, 126.9), r 3.6 @ (151.9, 316.9), r 1.7 @ (156.5, 164.8)
+- **Closed boxes:** 25
+- **Dots (junctions):** 5
+- **Words (OCR):** 56 in 41 lines: CONNECTOR LAYOUT · M5201 MACHINE CONTROL · MODULE · NQTE: · LEGEND: · CONNECTORS · NC NOT CONNECTED · J6 AND J7 · J6 · IC : INTERNALLY CONNECTED · WIRED · IDENTICAL
+
+Every curve, box, word and wire group: [19xx - M5201 - Connector Layout M5201 Machine Control Module J6 (traced).json](../PINOUTS/19xx%20-%20M5201%20-%20Connector%20Layout%20M5201%20Machine%20Control%20Module%20J6%20%28traced%29.json) (the CAD file: `19xx - M5201 - Connector Layout M5201 Machine Control Module J6 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

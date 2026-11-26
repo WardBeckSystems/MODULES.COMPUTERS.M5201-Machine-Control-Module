@@ -22,7 +22,7 @@ Wiki page: [M5201](../../../../PAGES/M5201.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 37 connected wire groups from 1,593 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1986 - M5201 - 14-161-02-001 - MACHINE' CONTROL ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%2014-161-02-001%20-%20MACHINE%27%20CONTROL%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1986 - M5201 - 14-161-02-001 - MACHINE' CONTROL ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M5201 - 14-161-02-001 - MACHINE' CONTROL ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M5201%20-%2014-161-02-001%20-%20MACHINE%27%20CONTROL%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1986 - M5201 - 14-161-02-001 - MACHINE' CONTROL ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

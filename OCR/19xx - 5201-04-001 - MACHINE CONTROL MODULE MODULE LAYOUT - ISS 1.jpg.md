@@ -31,7 +31,7 @@ Machine control module layout with title block at bottom left reading sideways.
 - **Closed boxes:** 11
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%205201-04-001%20-%20MACHINE%20CONTROL%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%205201-04-001%20-%20MACHINE%20CONTROL%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 
