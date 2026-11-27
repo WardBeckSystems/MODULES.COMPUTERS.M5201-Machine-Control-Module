@@ -55,6 +55,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M5201.stl`](MECHANICAL/M5201.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M5201)
+
+- **Size:** 483 × 44 mm panel, 406 mm deep, 3.2 mm plate (TECHNICAL DATA: 19.00" wide 1.75" high 16.00" deep (483 mm 44 mm 406 mm))
+- **From the drawing:** 3 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M5201 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M5201.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
