@@ -13,6 +13,38 @@ Ward-Beck Systems M5201, 1986|19. Wiki page: [M5201 on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 67 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1986 - M5201 - p7.jpg](MANUALS/1986%20-%20M5201%20-%20p7.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Logic levels** | Standard volt HC series levels. Logic 1: 3.SV min 20 ma source Logic 0: 1V max 20 ma sink. |
+| **Status indication** | LED display |
+| **Power requirements** | 10/12 volts dc, unregulated 0.5 amp |
+| **Circuit protection** | 1.5 amp circuit breaker, current Limiting regulators and overvoltage protecting zener diode. |
+| **Discrete control inputs** | Opto-isolators maybe strapped for or 12 to 24 volt operation. 10 ma nominal control current |
+| **Discrete control outputs** | Dry relay contacts 24V dc at 50 ma max |
+| **Ambient temperature** | to 60 degrees Celsius |
+| **Dimensions** | 19.00&quot; wide 1.75&quot; high 16.00&quot; deep (483 mm 44 mm 406 mm) |
+| **Weight** | 10 Ibs 5 0z (4.7 kg) |
+
+## Circuit description
+
+From [1986 - M5201 - p26.jpg](MANUALS/1986%20-%20M5201%20-%20p26.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**5414-161 MACHINE CONTROL ASSEMBLY**
+
+The serialized data at pin of Uz0 feeds two one shot multivibrators UZZA and u338, which forms pulse width generator with the data clock information applied to pins and 9. U31A OR the Iwo varying pulse widths together (approximately 1.3 microsecond pulse idth for logic and 0.5 microsecond pulse with for logic 0 } The output 2t pin 12 of u314 is the display system cata clock pulse width modulated with the serial bit Pattern data for the alphanumeric dor matrix displays. Tne cecocer U24 subdivides the serial data/clock output into blocks each driving 16 display characters on the SA91-029 display assemblies u25 forms data buffer drives with outputs appearing at JIL pin 12,9,5 and respectively reset clocking signa is fed to the SA91-039 display assemblies _ This serves the purpose of synchronizing the column counters on the external display drivers_ The column clocking and reset information is derived from column counter U21 and the one shot multivibrator u22C and U23B _ millisecond reset Pulse is generated each time the column count is 0 U23A forms column count/reset buffer, the output of which drives the isolation network R38 The appropriate drives appear at J14 pins 15, 11, and 3 The display system clock is produced by the oscillator made up of U294,E,F,R31 R32 and C1o_ The oscillator operates at frequency of 330 kHz. u30 (+7) and u32 016) counter generate the required address and clocking information for RAM U17 and EPROM character generator 419 1 ` External Inputs (refer to drawing B14-161-02-001/3 for detail). Thirty-two inputs are provided to feed unitary information into the M5z00 control system. These inputs are used to feed such control functions as mon tor mutes, solo control, remote channel control _ etc as required by particular St Stereo Television console system _ Refer to the console systems documentation for particular detail. ` '.. The opto-isolated inputs are divided into two sets of sixteen appearing on 37 pin &quot;D&quot; connector J4 and J5.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
