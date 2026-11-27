@@ -76,11 +76,121 @@ Not on Google Drive yet: `19xx - M5201 - Connector Layout M5201 Machine Control 
 
 ## RTO-144 pinout
 
-37 contacts. Read from the module's own documents (no RTO-144 sheet yet). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 3 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| D | OUTPUTS FOR THESE PORTS | out |  | medium |
+| J4-1 | EXT INPUT 1 - | control_in | EXT INPUT 1 - | high |
+| J4-2 | EXT INPUT 2 - | control_in | EXT INPUT 2 - | high |
+| J4-3 | EXT INPUT 3 - | control_in | EXT INPUT 3 - | high |
+| J4-4 | EXT INPUT 4 - | control_in | EXT INPUT 4 - | high |
+| J4-5 | EXT INPUT 5 - | control_in | EXT INPUT 5 - | high |
+| J4-6 | EXT INPUT 6 - | control_in | EXT INPUT 6 - | high |
+| J4-7 | EXT INPUT 7 - | control_in | EXT INPUT 7 - | high |
+| J4-8 | EXT INPUT 8 - | control_in | EXT INPUT 8 - | high |
+| J4-9 | EXT INPUT 9 - | control_in | EXT INPUT 9 - | high |
+| J4-10 | EXT INPUT 10 - | control_in | EXT INPUT 10 - | high |
+| J4-11 | EXT INPUT 11 - | control_in | EXT INPUT 11 - | high |
+| J4-12 | EXT INPUT 12 - | control_in | EXT INPUT 12 - | high |
+| J4-13 | EXT INPUT 13 - | control_in | EXT INPUT 13 - | high |
+| J4-14 | EXT INPUT 14 - | control_in | EXT INPUT 14 - | high |
+| J4-15 | EXT INPUT 15 - | control_in | EXT INPUT 15 - | high |
+| J4-16 | EXT INPUT 16 - | control_in | EXT INPUT 16 - | high |
+| J4-17 | N/C | nc |  | high |
+| J4-18 | +5 V | power |  | high |
+| J4-19 | +5 V | power |  | high |
+| J4-20 | EXT INPUT 1 + | control_in | EXT INPUT 1 + | high |
+| J4-21 | EXT INPUT 2 + | control_in | EXT INPUT 2 + | high |
+| J4-22 | EXT INPUT 3 + | control_in | EXT INPUT 3 + | high |
+| J4-23 | EXT INPUT 4 + | control_in | EXT INPUT 4 + | high |
+| J4-24 | EXT INPUT 5 + | control_in | EXT INPUT 5 + | high |
+| J4-25 | EXT INPUT 6 + | control_in | EXT INPUT 6 + | high |
+| J4-26 | EXT INPUT 7 + | control_in | EXT INPUT 7 + | high |
+| J4-27 | EXT INPUT 8 + | control_in | EXT INPUT 8 + | high |
+| J4-28 | EXT INPUT 9 + | control_in | EXT INPUT 9 + | high |
+| J4-29 | EXT INPUT 10 + | control_in | EXT INPUT 10 + | high |
+| J4-30 | EXT INPUT 11 + | control_in | EXT INPUT 11 + | high |
+| J4-31 | EXT INPUT 12 + | control_in | EXT INPUT 12 + | high |
+| J4-32 | EXT INPUT 13 + | control_in | EXT INPUT 13 + | high |
+| J4-33 | EXT INPUT 14 + | control_in | EXT INPUT 14 + | high |
+| J4-34 | EXT INPUT 15 + | control_in | EXT INPUT 15 + | high |
+| J4-35 | EXT INPUT 16 + | control_in | EXT INPUT 16 + | high |
+| J4-36 | CONTROL COMMON | ground |  | high |
+| J4-37 | CONTROL COMMON | ground |  | high |
+| J6-1 | CONTROL OUTPUT 1 A | control_out | CONTROL OUTPUT 1 | high |
+| J6-2 | CONTROL OUTPUT 2 A | control_out | CONTROL OUTPUT 2 | high |
+| J6-3 | CONTROL OUTPUT 3 A | control_out | CONTROL OUTPUT 3 | high |
+| J6-4 | CONTROL OUTPUT 4 A | control_out | CONTROL OUTPUT 4 | high |
+| J6-5 | CONTROL OUTPUT 5 A | control_out | CONTROL OUTPUT 5 | high |
+| J6-6 | CONTROL OUTPUT 6 A | control_out | CONTROL OUTPUT 6 | high |
+| J6-7 | CONTROL OUTPUT 7 A | control_out | CONTROL OUTPUT 7 | high |
+| J6-8 | CONTROL OUTPUT 8 A | control_out | CONTROL OUTPUT 8 | high |
+| J6-9 | CONTROL OUTPUT 9 A | control_out | CONTROL OUTPUT 9 | high |
+| J6-10 | CONTROL OUTPUT 10 A | control_out | CONTROL OUTPUT 10 | high |
+| J6-11 | CONTROL OUTPUT 11 A | control_out | CONTROL OUTPUT 11 | high |
+| J6-12 | CONTROL OUTPUT 12 A | control_out | CONTROL OUTPUT 12 | high |
+| J6-13 | CONTROL OUTPUT 13 A | control_out | CONTROL OUTPUT 13 | high |
+| J6-14 | CONTROL OUTPUT 14 A | control_out | CONTROL OUTPUT 14 | high |
+| J6-15 | CONTROL OUTPUT 15 A | control_out | CONTROL OUTPUT 15 | high |
+| J6-16 | CONTROL OUTPUT 16 A | control_out | CONTROL OUTPUT 16 | high |
+| J6-17 | N/C | nc |  | high |
+| J6-18 | SPARE | other |  | high |
+| J6-19 | SPARE | other |  | high |
+| J6-20 | CONTROL OUTPUT 1 B | control_out | CONTROL OUTPUT 1 | high |
+| J6-21 | CONTROL OUTPUT 2 B | control_out | CONTROL OUTPUT 2 | high |
+| J6-22 | CONTROL OUTPUT 3 B | control_out | CONTROL OUTPUT 3 | high |
+| J6-23 | CONTROL OUTPUT 4 B | control_out | CONTROL OUTPUT 4 | high |
+| J6-24 | CONTROL OUTPUT 5 B | control_out | CONTROL OUTPUT 5 | high |
+| J6-25 | CONTROL OUTPUT 6 B | control_out | CONTROL OUTPUT 6 | high |
+| J6-26 | CONTROL OUTPUT 7 B | control_out | CONTROL OUTPUT 7 | high |
+| J6-27 | CONTROL OUTPUT 8 B | control_out | CONTROL OUTPUT 8 | high |
+| J6-28 | CONTROL OUTPUT 9 B | control_out | CONTROL OUTPUT 9 | high |
+| J6-29 | CONTROL OUTPUT 10 B | control_out | CONTROL OUTPUT 10 | high |
+| J6-30 | CONTROL OUTPUT 11 B | control_out | CONTROL OUTPUT 11 | high |
+| J6-31 | CONTROL OUTPUT 12 B | control_out | CONTROL OUTPUT 12 | high |
+| J6-32 | CONTROL OUTPUT 13 B | control_out | CONTROL OUTPUT 13 | high |
+| J6-33 | CONTROL OUTPUT 14 B | control_out | CONTROL OUTPUT 14 | high |
+| J6-34 | CONTROL OUTPUT 15 B | control_out | CONTROL OUTPUT 15 | high |
+| J6-35 | CONTROL OUTPUT 16 B | control_out | CONTROL OUTPUT 16 | high |
+| J6-36 | CONTROL COMMON | ground |  | high |
+| J6-37 | CONTROL COMMON | ground |  | high |
+| P8-1 | COMMON | ground |  | high |
+| P8-2 | N/C | nc |  | high |
+| P8-3 | N/C | nc |  | high |
+| P8-4 | N/C | nc |  | high |
+| P8-5 | NSTB3 | bus | DATA BUS | high |
+| P8-6 | NSTB1 | bus | DATA BUS | high |
+| P8-7 | NCTL | bus | DATA BUS | high |
+| P8-8 | NRD | bus | DATA BUS | high |
+| P8-9 | COMMON | ground |  | high |
+| P8-10 | N/C | nc |  | high |
+| P8-11 | N/C | nc |  | high |
+| P8-12 | N/C | nc |  | high |
+| P8-13 | N/C | nc |  | high |
+| P8-14 | COMMON | ground |  | high |
+| P8-15 | AD6 | bus | DATA BUS | high |
+| P8-16 | AD4 | bus | DATA BUS | high |
+| P8-17 | AD2 | bus | DATA BUS | high |
+| P8-18 | AD0 | bus | DATA BUS | high |
+| P8-19 | COMMON | ground |  | high |
+| P8-20 | COMMON | ground |  | high |
+| P8-21 | N/C | nc |  | high |
+| P8-22 | N/C | nc |  | high |
+| P8-23 | NSTB4 | bus | DATA BUS | high |
+| P8-24 | NSTB2 | bus | DATA BUS | high |
+| P8-25 | NSTB0 | bus | DATA BUS | high |
+| P8-26 | NWR | bus | DATA BUS | high |
+| P8-27 | COMMON | ground |  | high |
+| P8-28 | N/C | nc |  | high |
+| P8-29 | N/C | nc |  | high |
+| P8-30 | N/C | nc |  | high |
+| P8-31 | N/C | nc |  | high |
+| P8-32 | COMMON | ground |  | high |
+| P8-33 | AD7 | bus | DATA BUS | high |
+| P8-34 | AD5 | bus | DATA BUS | high |
+| P8-35 | AD3 | bus | DATA BUS | high |
+| P8-36 | AD1 | bus | DATA BUS | high |
+| P8-37 | COMMON | ground |  | high |
 
 ## Manuals and documents
 

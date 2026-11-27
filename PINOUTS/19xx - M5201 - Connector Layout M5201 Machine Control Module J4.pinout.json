@@ -1,0 +1,536 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5201 - Connector Layout M5201 Machine Control Module J4.jpg",
+  "module": "M5201",
+  "applies_to": [
+    "M5201"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5201 MACHINE CONTROL MODULE - J4 EXTERNAL INPUTS (manual page 6-1)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "J4",
+      "kind": "D-sub 37",
+      "contacts": 37,
+      "rows": "1-19 opposite 20-37",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "J4",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "1 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 1 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 1",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "2 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 2 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 2",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "3 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 3 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 3",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "4 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 4 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 4",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "5 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 5 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 5",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "6 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 6 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 6",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "7 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 7 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 7",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "8 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 8 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 8",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "9 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 9 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 9",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "10 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 10 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 10",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "11 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 11 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 11",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "12 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 12 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 12",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "13 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 13 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 13",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "14 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 14 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 14",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "15 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 15 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 15",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "16 (EXTERNAL INPUTS -)",
+      "signal": "EXT INPUT 16 -",
+      "kind": "control_in",
+      "port": "EXT INPUT 16",
+      "polarity": "-"
+    },
+    {
+      "connector": "J4",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J4",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "+5V",
+      "signal": "+5 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J4",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "+5V",
+      "signal": "+5 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J4",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "1 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 1 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 1",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "2 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 2 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 2",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "3 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 3 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 3",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "23",
+      "also": null,
+      "as_drawn": "4 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 4 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 4",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "24",
+      "also": null,
+      "as_drawn": "5 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 5 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 5",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "25",
+      "also": null,
+      "as_drawn": "6 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 6 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 6",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "26",
+      "also": null,
+      "as_drawn": "7 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 7 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 7",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "27",
+      "also": null,
+      "as_drawn": "8 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 8 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 8",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "28",
+      "also": null,
+      "as_drawn": "9 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 9 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 9",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "29",
+      "also": null,
+      "as_drawn": "10 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 10 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 10",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "30",
+      "also": null,
+      "as_drawn": "11 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 11 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 11",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "31",
+      "also": null,
+      "as_drawn": "12 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 12 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 12",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "32",
+      "also": null,
+      "as_drawn": "13 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 13 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 13",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "33",
+      "also": null,
+      "as_drawn": "14 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 14 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 14",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "34",
+      "also": null,
+      "as_drawn": "15 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 15 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 15",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "35",
+      "also": null,
+      "as_drawn": "16 (EXTERNAL INPUTS +)",
+      "signal": "EXT INPUT 16 +",
+      "kind": "control_in",
+      "port": "EXT INPUT 16",
+      "polarity": "+"
+    },
+    {
+      "connector": "J4",
+      "pin": "36",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J4",
+      "pin": "37",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "EXT INPUT 1",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-20",
+        "-": "J4-1"
+      }
+    },
+    {
+      "name": "EXT INPUT 2",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-21",
+        "-": "J4-2"
+      }
+    },
+    {
+      "name": "EXT INPUT 3",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-22",
+        "-": "J4-3"
+      }
+    },
+    {
+      "name": "EXT INPUT 4",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-23",
+        "-": "J4-4"
+      }
+    },
+    {
+      "name": "EXT INPUT 5",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-24",
+        "-": "J4-5"
+      }
+    },
+    {
+      "name": "EXT INPUT 6",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-25",
+        "-": "J4-6"
+      }
+    },
+    {
+      "name": "EXT INPUT 7",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-26",
+        "-": "J4-7"
+      }
+    },
+    {
+      "name": "EXT INPUT 8",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-27",
+        "-": "J4-8"
+      }
+    },
+    {
+      "name": "EXT INPUT 9",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-28",
+        "-": "J4-9"
+      }
+    },
+    {
+      "name": "EXT INPUT 10",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-29",
+        "-": "J4-10"
+      }
+    },
+    {
+      "name": "EXT INPUT 11",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-30",
+        "-": "J4-11"
+      }
+    },
+    {
+      "name": "EXT INPUT 12",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-31",
+        "-": "J4-12"
+      }
+    },
+    {
+      "name": "EXT INPUT 13",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-32",
+        "-": "J4-13"
+      }
+    },
+    {
+      "name": "EXT INPUT 14",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-33",
+        "-": "J4-14"
+      }
+    },
+    {
+      "name": "EXT INPUT 15",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-34",
+        "-": "J4-15"
+      }
+    },
+    {
+      "name": "EXT INPUT 16",
+      "dir": "control_in",
+      "pins": {
+        "+": "J4-35",
+        "-": "J4-16"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Drawing number, date and drawn-by: none on this manual page",
+    "Mating view (front/rear) not stated"
+  ],
+  "confidence": "high",
+  "notes": "Manual page 6-1, J4 EXTERNAL INPUTS (37-pin D connector). Note on drawing: connectors J4 and J5 wired identical. Inputs are isolated opto-couplers: 16 inputs, '-' side on pins 1-16, '+' side on pins 20-35. Legend: NC = not connected, IC = internally connected. Bleed-through from the facing page is visible but ignored."
+}

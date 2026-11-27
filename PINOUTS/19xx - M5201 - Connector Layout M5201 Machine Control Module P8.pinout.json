@@ -1,0 +1,431 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5201 - Connector Layout M5201 Machine Control Module P8.jpg",
+  "module": "M5201",
+  "applies_to": [
+    "M5201",
+    "M5200"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5201 MACHINE CONTROL MODULE - P8 DATA INTERCONNECT TO M5200 (manual page 6-3)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P8",
+      "kind": "D-sub 37",
+      "contacts": 37,
+      "rows": "1-19 opposite 20-37",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P8",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "3 (NSTB)",
+      "signal": "NSTB3",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "1 (NSTB)",
+      "signal": "NSTB1",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "NCTL",
+      "signal": "NCTL",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "NRD",
+      "signal": "NRD",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "6 (ADDRESS/DATA \"A\")",
+      "signal": "AD6",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "4 (ADDRESS/DATA \"A\")",
+      "signal": "AD4",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "2 (ADDRESS/DATA \"A\")",
+      "signal": "AD2",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "0 (ADDRESS/DATA \"A\")",
+      "signal": "AD0",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "23",
+      "also": null,
+      "as_drawn": "4 (NSTB)",
+      "signal": "NSTB4",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "24",
+      "also": null,
+      "as_drawn": "2 (NSTB)",
+      "signal": "NSTB2",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "25",
+      "also": null,
+      "as_drawn": "0 (NSTB)",
+      "signal": "NSTB0",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "26",
+      "also": null,
+      "as_drawn": "NWR",
+      "signal": "NWR",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "27",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "28",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "29",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "30",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "31",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "32",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "33",
+      "also": null,
+      "as_drawn": "7 (ADDRESS/DATA \"A\")",
+      "signal": "AD7",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "34",
+      "also": null,
+      "as_drawn": "5 (ADDRESS/DATA \"A\")",
+      "signal": "AD5",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "35",
+      "also": null,
+      "as_drawn": "3 (ADDRESS/DATA \"A\")",
+      "signal": "AD3",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "36",
+      "also": null,
+      "as_drawn": "1 (ADDRESS/DATA \"A\")",
+      "signal": "AD1",
+      "kind": "bus",
+      "port": "DATA BUS",
+      "polarity": null
+    },
+    {
+      "connector": "P8",
+      "pin": "37",
+      "also": null,
+      "as_drawn": "COM",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "DATA BUS",
+      "dir": "bus",
+      "pins": {
+        "NSTB3": "P8-5",
+        "NSTB1": "P8-6",
+        "NCTL": "P8-7",
+        "NRD": "P8-8",
+        "AD6": "P8-15",
+        "AD4": "P8-16",
+        "AD2": "P8-17",
+        "AD0": "P8-18",
+        "NSTB4": "P8-23",
+        "NSTB2": "P8-24",
+        "NSTB0": "P8-25",
+        "NWR": "P8-26",
+        "AD7": "P8-33",
+        "AD5": "P8-34",
+        "AD3": "P8-35",
+        "AD1": "P8-36"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Drawing number, date, drawn-by: none on this page",
+    "Mating view not stated"
+  ],
+  "confidence": "high",
+  "notes": "Manual page 6-3, P8 DATA INTERCONNECT TO M5200 (37-pin D). Unlike J4/J6, pin 1-19 column is drawn on the right and 20-37 on the left. 8-bit ADDRESS/DATA \"A\" bus (AD0-AD7), strobes NSTB0-NSTB4, NWR, NRD, NCTL (active-low names). Port pin keys are signal names, not polarities. Faint mirrored text bleeding through from another page (display data/clock/reset listing) is not part of this drawing."
+}

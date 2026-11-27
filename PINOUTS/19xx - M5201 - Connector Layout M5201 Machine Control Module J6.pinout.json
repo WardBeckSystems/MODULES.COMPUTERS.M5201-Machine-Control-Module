@@ -1,0 +1,537 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - M5201 - Connector Layout M5201 Machine Control Module J6.jpg",
+  "module": "M5201",
+  "applies_to": [
+    "M5201"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M5201 MACHINE CONTROL MODULE - J6 EXTERNAL OUTPUTS (manual page 6-2)",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "J6",
+      "kind": "D-sub 37",
+      "contacts": 37,
+      "rows": "1-19 opposite 20-37",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "J6",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "1 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 1 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "2 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 2 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "3 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 3 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "4 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 4 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "5 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 5 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 5",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "6 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 6 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 6",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "7 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 7 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 7",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "8 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 8 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 8",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "9 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 9 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 9",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "10 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 10 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 10",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "11 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 11 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 11",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "12 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 12 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 12",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "13 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 13 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 13",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "14 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 14 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 14",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "15 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 15 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 15",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "16 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 16 A",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 16",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "SPARE",
+      "signal": "SPARE",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "SPARE",
+      "signal": "SPARE",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "1 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 1 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "2 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 2 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "3 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 3 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 3",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "23",
+      "also": null,
+      "as_drawn": "4 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 4 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 4",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "24",
+      "also": null,
+      "as_drawn": "5 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 5 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 5",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "25",
+      "also": null,
+      "as_drawn": "6 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 6 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 6",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "26",
+      "also": null,
+      "as_drawn": "7 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 7 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 7",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "27",
+      "also": null,
+      "as_drawn": "8 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 8 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 8",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "28",
+      "also": null,
+      "as_drawn": "9 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 9 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 9",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "29",
+      "also": null,
+      "as_drawn": "10 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 10 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 10",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "30",
+      "also": null,
+      "as_drawn": "11 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 11 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 11",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "31",
+      "also": null,
+      "as_drawn": "12 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 12 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 12",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "32",
+      "also": null,
+      "as_drawn": "13 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 13 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 13",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "33",
+      "also": null,
+      "as_drawn": "14 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 14 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 14",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "34",
+      "also": null,
+      "as_drawn": "15 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 15 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 15",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "35",
+      "also": null,
+      "as_drawn": "16 (CONTROL OUTPUTS)",
+      "signal": "CONTROL OUTPUT 16 B",
+      "kind": "control_out",
+      "port": "CONTROL OUTPUT 16",
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "36",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "J6",
+      "pin": "37",
+      "also": null,
+      "as_drawn": "CTL COM",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "CONTROL OUTPUT 1",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-1",
+        "b": "J6-20"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 2",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-2",
+        "b": "J6-21"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 3",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-3",
+        "b": "J6-22"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 4",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-4",
+        "b": "J6-23"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 5",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-5",
+        "b": "J6-24"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 6",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-6",
+        "b": "J6-25"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 7",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-7",
+        "b": "J6-26"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 8",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-8",
+        "b": "J6-27"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 9",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-9",
+        "b": "J6-28"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 10",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-10",
+        "b": "J6-29"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 11",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-11",
+        "b": "J6-30"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 12",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-12",
+        "b": "J6-31"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 13",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-13",
+        "b": "J6-32"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 14",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-14",
+        "b": "J6-33"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 15",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-15",
+        "b": "J6-34"
+      }
+    },
+    {
+      "name": "CONTROL OUTPUT 16",
+      "dir": "control_out",
+      "pins": {
+        "a": "J6-16",
+        "b": "J6-35"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Drawing number, date and drawn-by: none on this manual page",
+    "Mating view not stated",
+    "Which side of each relay contact is common/normally-open is not drawn (a/b just mean pin 1-16 side / pin 20-35 side)"
+  ],
+  "confidence": "high",
+  "notes": "Manual page 6-2, J6 EXTERNAL OUTPUTS. Note: connectors J6 and J7 wired identical. Outputs are dry relay contacts, 24 V dc 50 mA rating; output n is the contact pair pin n / pin n+19. Pins 18-19 SPARE, 36-37 CTL COM."
+}
