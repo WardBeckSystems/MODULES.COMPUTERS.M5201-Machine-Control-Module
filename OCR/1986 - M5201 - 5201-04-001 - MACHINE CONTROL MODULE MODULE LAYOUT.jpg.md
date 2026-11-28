@@ -1,5 +1,5 @@
 # 1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT.jpg
-Wiki page: [M5201](../../../../PAGES/M5201.md)
+Wiki page: [M5201](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))

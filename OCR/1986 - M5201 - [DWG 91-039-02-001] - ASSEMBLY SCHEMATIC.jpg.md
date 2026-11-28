@@ -1,5 +1,5 @@
 # 1986 - M5201 - 91-039-02-001 - ASSEMBLY SCHEMATIC.jpg
-Wiki page: [M5201](../../../../PAGES/M5201.md)
+Wiki page: [M5201](../)
 
 
 - **Year:** 1986 (module estimate (manual_issue))

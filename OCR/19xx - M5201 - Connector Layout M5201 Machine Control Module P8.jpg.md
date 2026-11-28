@@ -1,5 +1,5 @@
 # 19xx - M5201 - Connector Layout M5201 Machine Control Module P8.jpg
-Wiki page: [M5201](../../../../PAGES/M5201.md)
+Wiki page: [M5201](../)
 
 
 - **Year:** unknown (title block (read by eye))

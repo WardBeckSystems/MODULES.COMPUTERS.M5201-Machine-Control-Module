@@ -1,5 +1,5 @@
 # 19xx - M5201 - Typical M5201 System Interconnect for ST Series Consoles.jpg
-Wiki page: [M5201](../../../../PAGES/M5201.md)
+Wiki page: [M5201](../)
 
 
 - **Year:** unknown (title block (read by eye))

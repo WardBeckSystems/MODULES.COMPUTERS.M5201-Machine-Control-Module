@@ -1,5 +1,5 @@
 # 19xx - 5201-02-001 - MACHINE CONTROL MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M5201](../../../../PAGES/M5201.md)
+Wiki page: [M5201](../)
 
 
 - **Year:** unknown (title block (read by eye))

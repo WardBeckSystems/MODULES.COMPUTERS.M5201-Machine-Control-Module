@@ -1,6 +1,6 @@
 # M5201 Machine Control Module · Computers
 
-Ward-Beck Systems M5201, 1986|19. Wiki page: [M5201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M5201.html)
+Ward-Beck Systems M5201, 1986|19. Wiki page: [M5201 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMPUTERS.M5201-Machine-Control-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
