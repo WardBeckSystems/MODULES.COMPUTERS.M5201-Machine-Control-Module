@@ -4,13 +4,11 @@ Ward-Beck Systems M5201, 1986|19. Wiki page: [M5201 on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 49 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 18 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 51 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 48 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 17 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 50 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 67 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -53,26 +51,25 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUDZEM3hHR0tRVG8/view?resourcekey=0-N5OkLNzT0phhl4NSOpX4mw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUDZEM3hHR0tRVG8&resourcekey=0-N5OkLNzT0phhl4NSOpX4mw" width="240" alt="1986 - M5201 - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT.jpg"></a><br><sub>1986|19 · 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT · <a href="MECHANICAL/1986%20-%20M5201%20-%205201-04-001%20-%20MACHINE%20CONTROL%20MODULE%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 5201-04-001 - MACHINE CONTROL MODULE MODULE LAYOUT - ISS 1.jpg`
+## 3-D model
+
+[`MECHANICAL/M5201.stl`](MECHANICAL/M5201.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M5201)
+
+- **Size:** 483 × 44 mm panel, 406 mm deep, 3.2 mm plate (TECHNICAL DATA: 19.00" wide 1.75" high 16.00" deep (483 mm 44 mm 406 mm))
+- **From the drawing:** 3 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M5201 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M5201.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSm1sNVlaZU9DcFk/view?resourcekey=0-fdqPKcVt-B2QIiGUIOS0Og" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSm1sNVlaZU9DcFk&resourcekey=0-fdqPKcVt-B2QIiGUIOS0Og" width="240" alt="1986 - M5201 - [DWG 14-089-02-001].jpg"></a><br><sub>1986|19 · 14-089-02-001 · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-089-02-001%5D%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKM1AxTkJfMGExQ1k/view?resourcekey=0-RqjFK_8awAhYUgfncgsiJg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKM1AxTkJfMGExQ1k&resourcekey=0-RqjFK_8awAhYUgfncgsiJg" width="240" alt="1986 - M5201 - [DWG 14-089-06-001] - READOUT ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1986|19 · 14-089-06-001 - READOUT ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-089-06-001%5D%20-%20READOUT%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKd1JSSVVnZ3YwU0U/view?resourcekey=0-bPsr6Q8A6i_4LbzqQwSm3A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKd1JSSVVnZ3YwU0U&resourcekey=0-bPsr6Q8A6i_4LbzqQwSm3A" width="240" alt="1986 - M5201 - [DWG 14-141-02-001].jpg"></a><br><sub>1986|19 · 14-141-02-001 · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-141-02-001%5D%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQi1aRjFyTlE0ZlU/view?resourcekey=0-clFJx3rbbXVjPciaM0h2aw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQi1aRjFyTlE0ZlU&resourcekey=0-clFJx3rbbXVjPciaM0h2aw" width="240" alt="1986 - M5201 - [DWG 14-141-06-001] - DRIVER COMPONENT LAYOUT.jpg"></a><br><sub>1986|19 · 14-141-06-001 - DRIVER COMPONENT LAYOUT · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-141-06-001%5D%20-%20DRIVER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQlo4Rmk5bzF5UWs/view?resourcekey=0-zCvpspK6S1czUvSuPHQhbA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQlo4Rmk5bzF5UWs&resourcekey=0-zCvpspK6S1czUvSuPHQhbA" width="240" alt="1986 - M5201 - [DWG 14-161-02-001] - MACHINE' CONTROL ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1986|19 · 14-161-02-001 - MACHINE' CONTROL ASSEMBLY SCHEMATIC · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20MACHINE%27%20CONTROL%20ASSEMBLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKa29mcVlTWDZBcnM/view?resourcekey=0-PYtVVR7ei6qexWvC20tsxA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKa29mcVlTWDZBcnM&resourcekey=0-PYtVVR7ei6qexWvC20tsxA" width="240" alt="1986 - M5201 - [DWG 14-161-02-001] - UJO UJI FOO ROO.jpg"></a><br><sub>1986|19 · 14-161-02-001 - UJO UJI FOO ROO · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20UJO%20UJI%20FOO%20ROO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT3pMQjVfSjZlVXM/view?resourcekey=0-puqOygu4GqOVz5nG0L6rSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT3pMQjVfSjZlVXM&resourcekey=0-puqOygu4GqOVz5nG0L6rSw" width="240" alt="1986 - M5201 - [DWG 14-161-02-001] - UJSE RJID FUT USF.jpg"></a><br><sub>1986|19 · 14-161-02-001 - UJSE RJID FUT USF · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20UJSE%20RJID%20FUT%20USF%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTFRMMUU5bWRVam8/view?resourcekey=0-OgzXKZXGytaLVi-i8UHPyA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTFRMMUU5bWRVam8&resourcekey=0-OgzXKZXGytaLVi-i8UHPyA" width="240" alt="1986 - M5201 - [DWG 14-161-02-001].jpg"></a><br><sub>1986|19 · 14-161-02-001 · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSGJsM2hXLWtPRlk/view?resourcekey=0-W65ERRhEaruSOJMb_fUj0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSGJsM2hXLWtPRlk&resourcekey=0-W65ERRhEaruSOJMb_fUj0A" width="240" alt="1986 - M5201 - [DWG 14-161-06-001] - MACHINE CONTROL ASSEMBLY COMPONENT LAYOUT.jpg"></a><br><sub>1986|19 · 14-161-06-001 - MACHINE CONTROL ASSEMBLY COMPONENT LAYOUT · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2014-161-06-001%5D%20-%20MACHINE%20CONTROL%20ASSEMBLY%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbF9OS182NXpZZUk/view?resourcekey=0-8eN2USTXf991ddGeQ7kuCw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbF9OS182NXpZZUk&resourcekey=0-8eN2USTXf991ddGeQ7kuCw" width="240" alt="1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON.jpg"></a><br><sub>1986|19 · 5201-02-001 - SMTCHER OISPLAY PORT OPNON · <a href="SCHEMATICS/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY3JJOVVJUEoxYnM/view?resourcekey=0-oMWLLuOakNV11GJzF9X6dQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY3JJOVVJUEoxYnM&resourcekey=0-oMWLLuOakNV11GJzF9X6dQ" width="240" alt="1986 - M5201 - [DWG 91-039-02-001] - ASSEMBLY SCHEMATIC.jpg"></a><br><sub>1986|19 · 91-039-02-001 - ASSEMBLY SCHEMATIC · <a href="SCHEMATICS/1986%20-%20M5201%20-%20%5BDWG%2091-039-02-001%5D%20-%20ASSEMBLY%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbF9OS182NXpZZUk/view?resourcekey=0-8eN2USTXf991ddGeQ7kuCw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbF9OS182NXpZZUk&resourcekey=0-8eN2USTXf991ddGeQ7kuCw" width="240" alt="1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON.jpg"></a><br><sub>1986|19 · 5201-02-001 - SMTCHER OISPLAY PORT OPNON · <a href="SCHEMATICS/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 5201-02-001 - MACHINE CONTROL MODULE SCHEMATIC - ISS 1.jpg`
 
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `19xx - M5201 - Connector Layout M5201 Machine Control Module J4.jpg`, `19xx - M5201 - Connector Layout M5201 Machine Control Module J6.jpg`, `19xx - M5201 - Connector Layout M5201 Machine Control Module P8.jpg`
 
 ## RTO-144 pinout
 
@@ -216,23 +213,20 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRk9uUUFMSHN6NWs/view?resourcekey=0-lJj9wE69ZJbzM-_k_6va0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRk9uUUFMSHN6NWs&resourcekey=0-lJj9wE69ZJbzM-_k_6va0A" width="240" alt="19xx - M5201 - AD - WBSPS - AD - LS series 003.jpg"></a><br><sub>19xx - M5201 - AD - WBSPS - AD - LS series 003</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M5201 - Typical M5201 System Interconnect for ST Series Consoles.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON.kicad_sch](KICAD/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON.kicad_sch)
 - [1986 - M5201 - [DWG 14-089-02-001].kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-089-02-001%5D.kicad_sch)
 - [1986 - M5201 - [DWG 14-141-02-001].kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-141-02-001%5D.kicad_sch)
 - [1986 - M5201 - [DWG 14-161-02-001] - MACHINE' CONTROL ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20MACHINE%27%20CONTROL%20ASSEMBLY%20SCHEMATIC.kicad_sch)
 - [1986 - M5201 - [DWG 14-161-02-001] - UJO UJI FOO ROO.kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20UJO%20UJI%20FOO%20ROO.kicad_sch)
 - [1986 - M5201 - [DWG 14-161-02-001] - UJSE RJID FUT USF.kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D%20-%20UJSE%20RJID%20FUT%20USF.kicad_sch)
 - [1986 - M5201 - [DWG 14-161-02-001].kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2014-161-02-001%5D.kicad_sch)
-- [1986 - M5201 - 5201-02-001 - SMTCHER OISPLAY PORT OPNON.kicad_sch](KICAD/1986%20-%20M5201%20-%205201-02-001%20-%20SMTCHER%20OISPLAY%20PORT%20OPNON.kicad_sch)
 - [1986 - M5201 - [DWG 91-039-02-001] - ASSEMBLY SCHEMATIC.kicad_sch](KICAD/1986%20-%20M5201%20-%20%5BDWG%2091-039-02-001%5D%20-%20ASSEMBLY%20SCHEMATIC.kicad_sch)
 - [19xx - 5201-02-001 - MACHINE CONTROL MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%205201-02-001%20-%20MACHINE%20CONTROL%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [M5201.kicad_sym](KICAD/M5201.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
